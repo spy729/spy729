@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/spy729/spy729/output/snake.svg" alt="Snake animation" />
-
 ###
